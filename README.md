@@ -1,1 +1,1 @@
-# Next.js-Typescript-Dashboard-Realtime-data-with-Chart.js-
+# Next.js-Typescript-Dashboard-Realtime-data-with-Chart.js
